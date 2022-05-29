@@ -9,3 +9,4 @@ https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-ecs-ecr-code
 https://stackoverflow.com/questions/61517459/stuck-at-code-deploy-when-trying-to-do-blue-green-deploy-in-ci-cd-pipeline-on-ec
 
 https://devops4solutions.com/integrate-terraform-with-jenkins/  #for most of DevOps related answers
+https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2/ #for Jenkins and Docker integration
