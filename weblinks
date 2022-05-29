@@ -11,3 +11,4 @@ https://stackoverflow.com/questions/61517459/stuck-at-code-deploy-when-trying-to
 https://devops4solutions.com/integrate-terraform-with-jenkins/  #for most of DevOps related answers
 https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2/ #for Jenkins and Docker integration
 https://appfleet.com/blog/integrating-ansible-and-docker-in-ci-cd-process-using-jenkins-job/ #integrating docker ansible jenkins
+https://hackernoon.com/how-to-create-a-cd-pipeline-with-kubernetes-ansible-and-jenkins-i6c03yp2 #integrating k8s ansible jenkins
