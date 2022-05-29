@@ -1,3 +1,10 @@
 https://cloud.google.com/build/docs/deploying-builds/deploy-appengine#before_you_begin
 https://devops4solutions.com/ci-cd-using-jenkins-and-ansible/ # for java application integration of ansible to deploy on tomcat or other environments
 https://medium.com/marionete/building-a-serverless-ci-cd-pipeline-on-aws-12d1660ea384 #for aws ecs code pipeline integration with ansible for a simple python application
+
+Continuous Deployment to Kubernetes (EKS) using AWS CodePipeline, AWS CodeCommit and AWS CodeBuild | by Shanu Koyakutty | ITNEXT
+https://aws.plainenglish.io/aws-codepipeline-for-amazon-ecs-part-2-a-blue-green-deployment-type-c162fd73be91
+https://docs.aws.amazon.com/codepipeline/latest/userguide/file-reference.html#file-reference-ecs-bluegreen
+https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-ecs-ecr-codedeploy.html#tutorials-ecs-ecr-codedeploy-taskdefinition
+https://stackoverflow.com/questions/61517459/stuck-at-code-deploy-when-trying-to-do-blue-green-deploy-in-ci-cd-pipeline-on-ec
+
