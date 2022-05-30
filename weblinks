@@ -12,3 +12,4 @@ https://devops4solutions.com/integrate-terraform-with-jenkins/  #for most of Dev
 https://devops4solutions.com/ci-cd-using-jenkins-and-docker-2/ #for Jenkins and Docker integration
 https://appfleet.com/blog/integrating-ansible-and-docker-in-ci-cd-process-using-jenkins-job/ #integrating docker ansible jenkins
 https://hackernoon.com/how-to-create-a-cd-pipeline-with-kubernetes-ansible-and-jenkins-i6c03yp2 #integrating docker k8s ansible jenkins for a basic python application
+https://malsouli.medium.com/10-smart-ways-to-use-aws-codebuild-22a8ee0d9302 #buildspec.yml files
