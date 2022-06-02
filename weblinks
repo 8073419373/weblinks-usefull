@@ -14,3 +14,4 @@ https://appfleet.com/blog/integrating-ansible-and-docker-in-ci-cd-process-using-
 https://hackernoon.com/how-to-create-a-cd-pipeline-with-kubernetes-ansible-and-jenkins-i6c03yp2 #integrating docker k8s ansible jenkins for a basic python application
 https://malsouli.medium.com/10-smart-ways-to-use-aws-codebuild-22a8ee0d9302 #buildspec.yml files
 https://devops4solutions.com/how-to-use-one-aws-loadbalancer-for-multiple-services/   #single loadbalancer for multiple application
+https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-migrate-repository-existing.html    # to clone github repo to aws code commit
