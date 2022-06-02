@@ -15,3 +15,6 @@ https://hackernoon.com/how-to-create-a-cd-pipeline-with-kubernetes-ansible-and-j
 https://malsouli.medium.com/10-smart-ways-to-use-aws-codebuild-22a8ee0d9302 #buildspec.yml files
 https://devops4solutions.com/how-to-use-one-aws-loadbalancer-for-multiple-services/   #single loadbalancer for multiple application
 https://docs.aws.amazon.com/codecommit/latest/userguide/how-to-migrate-repository-existing.html    # to clone github repo to aws code commit
+https://mkyong.com/maven/how-to-run-unit-test-with-maven/    #test cases writting code
+https://docs.aws.amazon.com/codebuild/latest/userguide/report-create.html    #test cases writting code
+https://docs.aws.amazon.com/codebuild/latest/userguide/report-group-test-case-commands.html    #test cases writting and running code
