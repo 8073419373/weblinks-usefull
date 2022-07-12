@@ -24,3 +24,5 @@ https://stackoverflow.com/questions/57028412/how-to-install-nexus-on-ubuntu-18-0
 https://dzone.com/articles/publishing-artifacts-to-sonatype-nexus-using-jenki         #jenkinsfile to publish artifact to nexus 
 
 https://www.coachdevops.com/2021/02/automate-docker-builds-using-jenkins.html             #jenkinsfile integrated with docker and nexus repository
+
+https://aws.amazon.com/blogs/devops/integrating-sonarcloud-with-aws-codepipeline-using-aws-codebuild/               #CodeQuality test stage in aws code pipeline
