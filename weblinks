@@ -19,7 +19,7 @@ https://mkyong.com/maven/how-to-run-unit-test-with-maven/    #test cases writtin
 https://docs.aws.amazon.com/codebuild/latest/userguide/report-create.html    #test cases writting code
 https://docs.aws.amazon.com/codebuild/latest/userguide/report-group-test-case-commands.html    #test cases writting and running code
 https://www.stacksimplify.com/aws-eks/                        #for EKS Service Provisioning on AWS EKS
-https://www.knowledgehut.com/blog/devops/install-jenkins-ubuntu            #to install jenkins full course
+https://www.knowledgehut.com/blog/devops/install-jenkins-ubuntu also https://devopsarticle.com/how-to-install-jenkins-on-aws-ec2-ubuntu-20-04/            #to install jenkins full course
 https://stackoverflow.com/questions/57028412/how-to-install-nexus-on-ubuntu-18-04               #to install nexus on ubuntu18.04
 https://dzone.com/articles/publishing-artifacts-to-sonatype-nexus-using-jenki         #jenkinsfile to publish artifact to nexus 
 
